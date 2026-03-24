@@ -96,5 +96,9 @@ Thêm các ảnh chụp màn hình như:
 - Khoa: Công nghệ Thông tin, Đại học Đại Nam  
 - Mã sinh viên: 1771020408  
 - Lớp: CNTT17-12  
+**Hà Tuấn Điệp**  
+- Khoa: Công nghệ Thông tin, Đại học Đại Nam  
+- Mã sinh viên: 1771020153  
+- Lớp: CNTT17-12
 
 © 2025 Đại học Đại Nam – Môn: Nhập môn học máy
